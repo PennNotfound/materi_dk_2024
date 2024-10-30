@@ -1,0 +1,12 @@
+Teman SD :
+   1.ujang
+   2.jajang
+   3.udin
+   4.arya
+   5.imas
+Teman SMP :
+   1.daus
+   2.nurdin
+   3.rais
+   4.aldi
+   5.Penn
